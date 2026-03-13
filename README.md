@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=timeauto&height=200&section=header&text=ha-erim&fontColor=303030&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=e6f4fa&height=200&section=header&text=ha-erim&fontColor=343a40&fontSize=90)
   
   <h3 align="center">🛠 Teck Stack 🛠</h3>
   <p align="center">

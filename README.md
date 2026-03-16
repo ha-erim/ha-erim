@@ -4,9 +4,9 @@
   
   <h3 align="center">🛠 Teck Stack 🛠</h3>
   <p align="center">
-    <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=yellow"/></a>&nbsp
-    <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>&nbsp
     <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=Pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/></a>&nbsp
+    <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=Linux&logoColor=yellow"/></a>&nbsp
   </p>
   
   <h3 align="center"> 🎳 About Me 🎳 </h3>

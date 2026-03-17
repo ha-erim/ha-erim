@@ -13,7 +13,7 @@
 
   <h3>🎳 About Me 🎳</h3>
   <p>
-    <img src="https://img.shields.io/badge/khl020116@naver.com-00C767?style=flat-square&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/khl020116@naver.com-00C767?style=flat&logo=gmail&logoColor=white"/>
     <a href="https://scholar.google.com/citations?user=UenE_tcAAAAJ&hl=ko">
       <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"/>
     </a>

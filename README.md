@@ -44,24 +44,26 @@
   <tr>
     <td align="center"><sub>2026</sub></td>
     <td align="center"><sub>Conference</sub></td>
-    <td><sub>
+    <td align="center"><sub>
       <!--<a href="링크">-->
-      G-LOO: Enhancing Multimodal Knowledge Retrieval via Leave-One-Out Consistency Pruning
+      <!--G-LOO: Enhancing Multimodal Knowledge Retrieval via Leave-One-Out Consistency Pruning-->
+      -
       </a>
     </sub></td>
-    <td align="center"><sub>-</sub></td>
+    <td align="center"><sub>ICML 2026</sub></td>
     <td align="center"><sub>Submission</sub></td>
   </tr>
 
   <tr>
     <td align="center"><sub>2026</sub></td>
     <td align="center"><sub>Conference</sub></td>
-    <td><sub>
+    <td align="center"><sub>
       <!--<a href="링크">-->
-      ZeRA: Zero-Reindex Multimodal RAG via Heterogeneous Embedding Alignment for Lightweight Query Encoding
+      <!--ZeRA: Zero-Reindex Multimodal RAG via Heterogeneous Embedding Alignment for Lightweight Query Encoding-->
+      -
       </a>
     </sub></td>
-    <td align="center"><sub>-</sub></td>
+    <td align="center"><sub>ICPR 2026</sub></td>
     <td align="center"><sub>Submission</sub></td>
   </tr>
 

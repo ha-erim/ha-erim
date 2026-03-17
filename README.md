@@ -20,6 +20,9 @@
     <a href="https://orcid.org/0009-0006-5126-3945">
       <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white"/>
     </a>
+    <a href="https://drive.google.com/drive/folders/1Ny3zO-mCXdmXEniL9llu399OJtxQQGtt?usp=sharing">
+      <img src="https://img.shields.io/badge/CV+Portfolio-F8FAFD?style=flat&logo=googledrive&logoColor=#4285F4"/>
+    </a>
   </p>
 </div>
 

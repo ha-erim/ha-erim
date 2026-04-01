@@ -49,12 +49,11 @@
     <td align="center"><sub>Conference</sub></td>
     <td align="center"><sub>
       <!--<a href="링크">-->
-      <!--ZeRA: Zero-Reindex Multimodal RAG via Heterogeneous Embedding Alignment for Lightweight Query Encoding-->
-      -
+      ZeRA: Zero-Reindex Multimodal RAG via Heterogeneous Embedding Alignment for Lightweight Query Encoding
       </a>
     </sub></td>
     <td align="center"><sub>ICPR 2026</sub></td>
-    <td align="center"><sub>Submission</sub></td>
+    <td align="center"><sub>Accept</sub></td>
   </tr>
 
   <tr>
@@ -109,7 +108,7 @@
 
   <tr>
     <td align="center"><sub>2024</sub></td>
-    <td align="center"><sub><b>KCI</b> Journal</sub></td>
+    <td align="center"><sub><b>KCI</b> <br>Journal</sub></td>
     <td align="center"><sub>
       <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11993603">
       자기 및 교차 집중 메커니즘을 통한 단일 이미지 3D 재구성</sub></td>
@@ -150,7 +149,7 @@
   
   <tr>
     <td align="center"><sub>2024.07 – 2025.06</sub></td>
-    <td align="center"><sub>석사과정생 연구장려금 <br>(1200만원)</sub></td>
+    <td align="center"><sub>석사과정생 연구장려금 지원사업<br>(1200만원)</sub></td>
     <td align="center"><sub>한국연구재단</sub></td>
   </tr>
 

@@ -13,7 +13,7 @@
 
   <h3>🎳 About Me 🎳</h3>
   <p>
-    <img src="https://img.shields.io/badge/khl020116@naver.com-00C767?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/hyerim02@keti.re.kr-00C767?style=flat&logo=gmail&logoColor=white"/>
     <a href="https://scholar.google.com/citations?user=UenE_tcAAAAJ&hl=ko">
       <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white"/>
     </a>
@@ -53,7 +53,7 @@
       </a>
     </sub></td>
     <td align="center"><sub>ICPR 2026</sub></td>
-    <td align="center"><sub>Accept</sub></td>
+    <td align="center"><sub>Poster</sub></td>
   </tr>
 
   <tr>

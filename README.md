@@ -46,10 +46,22 @@
 
   <tr>
     <td align="center"><sub>2026</sub></td>
+    <td align="center"><sub><b>SCIE</b> Journal</sub></sub></td>
+    <td align="center"><sub>
+      <!--<a href="링크">-->
+      Efficient and Reliable Multimodal Retrieval-Augmented Question Answering <br>via Greedy Leave-One-Out Consistency Pruning
+      </a>
+    </sub></td>
+    <td align="center"><sub>Pattern Analysis and Applications</sub></td>
+    <td align="center"><sub>Accept</sub></td>
+  </tr>
+
+  <tr>
+    <td align="center"><sub>2026</sub></td>
     <td align="center"><sub>Conference</sub></td>
     <td align="center"><sub>
       <!--<a href="링크">-->
-      ZeRA: Zero-Reindex Multimodal RAG via Heterogeneous Embedding Alignment for Lightweight Query Encoding
+      ZeRA: Zero-Reindex Multimodal RAG via Heterogeneous Embedding Alignment <br>for Lightweight Query Encoding
       </a>
     </sub></td>
     <td align="center"><sub>ICPR 2026</sub></td>
@@ -130,7 +142,7 @@
     <td align="center"><sub>2023</sub></td>
     <td align="center"><sub>Conference</sub></td>
     <td align="center"><sub>모바일 기기를 이용한 카메라 파라미터 추정 애플리케이션 개발</sub></td>
-    <td align="center"><sub>한국멀티미디어학회 추계학술발표대회</sub></td>
+    <td align="center"><sub>한국멀티미디어학회<br>추계학술발표대회</sub></td>
     <td align="center"><sub>Poster</sub></td>
   </tr>
 </table>
